@@ -1,4 +1,3 @@
-# Example of a Continuous Deliver pipeline with CodePipeline and CodeDeploy
 
 Creating a simple Continuous Delivery pipeline allowing you to push changes from your GitHub repository to your EC2 Instances.
 
