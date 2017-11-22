@@ -1,5 +1,5 @@
 
-Creating a simple Continuous Delivery pipeline allowing you to push changes from your GitHub repository to your EC2 Instances.
+#Creating a simple Continuous Delivery pipeline allowing you to push changes from your GitHub repository to your EC2 Instances.
 
 ## Services
 
